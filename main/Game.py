@@ -123,7 +123,7 @@ def main():
     pygame.mixer.music.play(-1)
 
     screen = pygame.display.set_mode(core.SCREENSIZE)
-    pygame.display.set_caption('Game Animation')
+    pygame.display.set_caption('By Rizwan.AR')
 
     ShowStartInterface(screen, core.SCREENSIZE)
 
